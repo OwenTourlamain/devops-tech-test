@@ -1,0 +1,11 @@
+# Local .terraform directories
+**/.terraform*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+/data/dist
+**/.env
+/data/.env
+creds.json
